@@ -2,7 +2,7 @@
 
 # Documentation project instructions
 
-## About this project!!!!!!!!
+## About this project!!!!!!!!1
 
 - This is a documentation site built on [Mintlify](https://mintlify.com)
 - Pages are MDX files with YAML frontmatter
